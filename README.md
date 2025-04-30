@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mugammxd
 - 👀 I’m interested in Java,C#,SQL,Python
-- 🌱 I’m currently learning BSc Business Computing (2nd year)
+- 🌱 I’m a BSc Computer Science Graduate
 - 📫 How to reach me N/A
 
 <!---
